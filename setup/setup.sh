@@ -1,4 +1,4 @@
-# Copyright (c) 2022 AstreaOS
+# Copyright (c) 2022-2023 AstreaOS
 # /!\ Requires root privileges!
 
 # Update repositories
