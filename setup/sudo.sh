@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2022 AstreaOS
+# Copyright (c) 2022-2023 AstreaOS
 # /!\ Requires execution using the root account!
 
 # Print password creation message
